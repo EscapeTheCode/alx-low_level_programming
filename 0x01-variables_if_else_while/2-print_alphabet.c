@@ -1,4 +1,4 @@
-#include <stuio.h>
+#include <studio.h>
 /**
  * main entry
  *
