@@ -1,20 +1,19 @@
-#include <stdio.h>
+#include <stuio.h>
 /**
  * main entry
  *
  * Return: 0 (success)
  */
-
 int main(void)
 
 {
-	char alphabet:
+	char alphabet;
 
-		for (alphabet = 'a'; alphabet <= 'z'; alphabet)
+		for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 		{
-			putchar (alphabet);
+			putchar(alphabet);
 		}
-	putchar ( '\n' );
+	putchar ('\n');
 
 return 0;
 
