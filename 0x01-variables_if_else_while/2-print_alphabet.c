@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main entry
+ * main - entry point
  *
  * Return: 0 (success)
  */
@@ -8,7 +8,6 @@ int main(void)
 
 {
 char alphabet;
-	
 for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
 putchar (alphabet);
