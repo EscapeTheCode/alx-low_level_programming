@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main entry point
+ * main - entry point
  *
  * Return: 0 (success)
  */
@@ -10,7 +10,7 @@ int main(void)
 {
 int digit;
 
-	for (digit = 0 ; digit < 10; digit++)
+for (digit = 0 ; digit < 10; digit++)
 	{
 		printf("%digit", digit);
 	}
