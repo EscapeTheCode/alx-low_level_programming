@@ -1,1 +1,1 @@
-My readme message to structures typef
+My readme for structures typedef file
